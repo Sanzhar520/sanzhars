@@ -1,0 +1,115 @@
+body{
+    background:#00b3ff;
+}
+
+.container{
+    width:800px;
+    margin:auto;
+    background:#bde3ef;
+    padding:20px;
+}
+
+.top{
+    display:flex;
+    gap:20px;
+}
+
+.box{
+     width: 150px;
+     color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    position: absolute;
+    background: skyblue;
+    height: fit-content;
+    flex-direction: column;
+}
+.avatar{
+    top:23vh;
+    left:27vw;
+
+    width: 20vw;
+    height: 39vh;
+}
+
+.name
+{top: 23vh;
+     left: 52vw;
+   
+ width: 20vw;
+height: 39vh;
+
+
+}
+.center {
+    top:64%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+   
+width: 50vw;
+}
+
+.bottom{
+    margin-top:10px;
+    background:#86c7e8;
+    border-radius:20px;
+    padding:20px;
+    text-align:center;
+}
+
+h1{
+    color:red;
+}
+
+h2,h3,p{
+    color:white;
+}
+img{
+    
+    height: 25vh;
+}
+
+body {
+    background-color: green;
+    color: rgb(255, 255, 255);
+}
+
+.dark {
+    background-color: rgb(11, 0, 128);
+    color: white;
+}
+
+#count {
+    color: black;
+}
+
+#block {
+    max-width: 300px;
+}
+
+nav {
+    background: rgb(255, 255, 255);
+    padding: 10px;
+   
+}
+
+.contacts{
+    margin-top: 450px;
+    padding: 10px;
+    text-align: center;
+    background:yellow;
+}
+
+.contac{
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    background:yellow;
+}
+.menu {
+    background: gold;
+    text-align: center;
+    padding: 15px;
+}
